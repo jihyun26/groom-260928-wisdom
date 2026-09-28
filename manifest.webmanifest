@@ -1,0 +1,1 @@
+{"name":"오늘의 한 줄","short_name":"한 줄","description":"하루의 문장을 읽고 글과 그림으로 기록하는 개인 일기","lang":"ko","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f0e6","theme_color":"#f4f0e6","icons":[{"src":"./assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
